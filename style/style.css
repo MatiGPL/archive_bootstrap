@@ -1,0 +1,19 @@
+body {
+  background-color: #ffd900;
+}
+
+form div:nth-child(1) {
+  border: 10px solid black;
+  font-size: 10px;
+  padding: 10px;
+}
+form div:nth-child(2) {
+  border: 1em solid black;
+  font-size: 1em;
+  padding: 1em;
+}
+form div:nth-child(3) {
+  border: 2em solid black;
+  font-size: 2em;
+  padding: 2em;
+}/*# sourceMappingURL=style.css.map */
